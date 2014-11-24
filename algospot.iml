@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="C++" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 2.7.7 (D:/Anaconda/python.exe)" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/problems/rockfestival" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="MinGW" jdkType="CppSdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 2.7.7 (D:/Anaconda/python.exe) interpreter library" level="application" />
+  </component>
+</module>
+
